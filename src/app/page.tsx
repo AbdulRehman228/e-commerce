@@ -3,7 +3,6 @@ import Hero from './Component/Hero'
 import Cont from './Component/Range'
 import Product from './Component/Product'
 import Shop from './Component/Shop'
-import Setup from './Component/Setup'
 
 
 const page = () => {
@@ -13,7 +12,6 @@ const page = () => {
       <Cont/>
       <Product/>
       <Shop/>
-      <Setup/>
     </div>
   )
 }

@@ -38,7 +38,7 @@ const Header = () => {
         </div>
 
         <div className='border-t-2 border-gray-300 w-[80%] mx-auto mt-8 '>
-                <h2 className='ml-36 text-[16px] mt-8 mb-8'>2024 Furino.All right reverved</h2>
+                <h2 className='text-[16px] mt-8 mb-8'>2024 Furino.All right reverved</h2>
             </div>
     </main>
   )

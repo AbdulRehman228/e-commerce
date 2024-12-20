@@ -9,7 +9,7 @@ const Shop = () => {
                 <h1 className='font-bold text-center text-[40px]'>50+ Beautiful rooms inspiration</h1>
                 <p className='ml-9 mt-5'>Our designer already made a lot of beautiful prototipe of rooms that inspire you</p>
 
-                <button className="px-[50px] md:px-[70px] py-3 border-2 border-yellow-700 text-yellow-700 hover:bg-yellow-700 hover:text-white transition duration-300 font-bold ml-9 mt-5">
+                <button className="px-[50px] md:px-[70px] py-3 border-2 bg-[#B88E2F] hover:bg-opacity-90 text-white transition duration-300 font-bold ml-9 mt-5">
                  Explore More
                 </button>
             </div>
